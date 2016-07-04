@@ -1,6 +1,4 @@
-# coding-test by zhouk
-It's a coding test haha for all shnwp members.
-more words
-thx
-and you!
+# coding-test by zhouk and nicolas
+thx very much!
+and you and she!
 and he.
